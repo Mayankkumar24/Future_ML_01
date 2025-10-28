@@ -1,0 +1,9 @@
+Python
+Pandas
+NumPy
+MatplotLib
+Seaborn
+Sciket-Learn
+Xgboost
+Prophet
+Os
